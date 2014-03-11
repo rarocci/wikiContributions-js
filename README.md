@@ -24,16 +24,17 @@ Membres de l'équipe
 ### Spécifique
 
 * Refaire l'application original php de wikiContributions (GRISOU) en JavaScript, JQuery (Ajax)
-* Donner un look et contruire un framework visuel éventuellement adaptable.
+* Donner un look et construire un framework visuel éventuellement adaptable.
 * Ajouter le retreive progressif des articles d'un contributeur.
-* Ajouter le total score des article qui sont dans la liste (valeur absolut de size diff).
+* Ajouter le total score des articles qui sont dans la liste (valeur absolut de size diff).
 * Ajouter l'onglet Talk.
 * Ajouter la distance d'édition (Levensthein distance).
 * Ajouter la recherche avancée.
 * Ajouter des informations sur les contributions:
   * la grosseur en char de l'article.
-  * la difference en char entre l'article précédent et ma contribution.
+  * la différence en char entre l'article précédent et ma contribution.
   * Ajouter la date de la contribution dans cet article.
+
 
 ----------------------------------------------------------
 
