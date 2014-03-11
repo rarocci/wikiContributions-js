@@ -15,7 +15,7 @@ Membres de l'équipe
 
 ## Objectifs
 
-* Une application http://ialex.ca/reconnaissance existait. Nous avons eu comme mandat de la modifier pour y ajouter des fonctionnalités.  Au lieu de cela nous avons opté pour une preuve de concept qui aurait pour but premier : règler un problème d'architecture conceptuelle et de vitesse. 
+* Une application http://ialex.ca/reconnaissance existait. Nous avons eu comme mandat de la modifier pour y ajouter des fonctionnalités.  Au lieu de cela nous avons opté pour une preuve de concept qui aurait pour but premier : régler un problème d'architecture conceptuelle et de vitesse. 
 
 ### Idée
 
@@ -51,7 +51,7 @@ Please note that documentation for this github depository has been inspired by t
 
 # wikiContributions
 
-wikiContributions est un outil visant à aider les scientifiques à obtenir de la reconnaissance pour leurs contributions aux wikis scientifiques. Nous croyons qu'éventuellement, les wikis scientifiques remplaceront les articles conventionnels publiés dans les revues scientifiques dispendieuses et non-collaboratives. Lorsque ce sera le cas, il sera plus difficile pour un membre de la communauté scientifique d'inscrire dans son CV quelles sont les contibutions qu'il/elle aura apportées à des articles sur internet, puisque celles-ci sont de nature collaborative, et peuvent aller de la virgule jusqu'à un article de 10 pages complet. Nous souhaitons ainsi fournir un outil de mesure, et notre projet va bon train. Vous pourrez trouver de l'information concernant la façon d'utiliser notre site web ainsi que la façon d'y contribuer sur la page d'aide wiki de notre dépôt:
+wikiContributions est un outil visant à aider les scientifiques à obtenir de la reconnaissance pour leurs contributions aux wikis scientifiques. Nous croyons qu'éventuellement, les wikis scientifiques remplaceront les articles conventionnels publiés dans les revues scientifiques dispendieuses et non-collaboratives. Lorsque ce sera le cas, il sera plus difficile pour un membre de la communauté scientifique d'inscrire dans son CV quelles sont les contributions qu'il/elle aura apportées à des articles sur internet, puisque celles-ci sont de nature collaborative, et peuvent aller de la virgule jusqu'à un article de 10 pages complet. Nous souhaitons ainsi fournir un outil de mesure, et notre projet va bon train. Vous pourrez trouver de l'information concernant la façon d'utiliser notre site web ainsi que la façon d'y contribuer sur la page d'aide wiki de notre dépôt:
 https://github.com/GrisouUQAM/wikiContributions/wiki/Francais. 
 Notre projet utilise le code fourni par **Google-Diff, Match and Patch** pour faire la comparaison de différentes révisions (que vous trouverez dans le dossier `google-diff`).
 
